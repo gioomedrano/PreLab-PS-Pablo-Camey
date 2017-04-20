@@ -1,0 +1,6 @@
+Línea 74: la clase MSFlexGridLib.MSFlexGrid del control lista no era una clase de control cargada.
+Línea 80: el nombre de la propiedad _ExtentX de lista no es válido.
+Línea 81: el nombre de la propiedad _ExtentY de lista no es válido.
+Línea 82: el nombre de la propiedad _Version de lista no es válido.
+Línea 83: el nombre de la propiedad Rows de lista no es válido.
+Línea 84: el nombre de la propiedad Cols de lista no es válido.
